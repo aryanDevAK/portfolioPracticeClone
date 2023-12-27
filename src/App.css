@@ -26,6 +26,11 @@
   --lightBlue: #00d7fc;
   --yellowishOrange: #ffa41b;
   --yellow: #ffe66d;
+  --gradient1: linear-gradient(
+    90.21deg,
+    rgba(170, 54, 124, 0.5) -5.91%,
+    rgba(0, 215, 252, 0.5) 111.58%
+  );
 }
 
 /*Default Styling */
